@@ -1,0 +1,3 @@
+com\retail\common\events\OrderCreatedEvent.class
+com\retail\common\events\DomainEvent.class
+com\retail\common\events\InventoryUpdatedEvent.class
